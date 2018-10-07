@@ -1,4 +1,4 @@
-package branching1;
+package branching;
 
 import java.util.Scanner;
 
